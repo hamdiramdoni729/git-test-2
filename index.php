@@ -13,6 +13,10 @@
     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veritatis officiis magni sunt voluptatem. Accusantium,
         eveniet culpa impedit quasi laudantium quo beatae temporibus voluptas, doloremque quaerat, voluptatem sint in
         fugiat earum.</p>
+    <ul>
+        <li>satu</li>
+        <li>dua</li>
+    </ul>
 
 </body>
 
